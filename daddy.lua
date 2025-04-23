@@ -55,8 +55,8 @@ shared.paradox = {
     ['Hitbox'] = {
         ['Enabled'] = true,
         ['Guns'] = {
-            ['[Double-Barrel SG]'] = { H = 0.8, W = 0.8 },
-            ['[Revolver]'] = { H = 0.3, W = 0.6 },
+            ['[Double-Barrel SG]'] = { H = 1, W = 1 },
+            ['[Revolver]'] = { H = 1, W = 1 },
             ['[Tactical SG]'] = { H = 1, W = 1 },
             ['[Rifle]'] = { H = 1.2, W = 1.2 }
         }
@@ -69,7 +69,7 @@ shared.paradox = {
             ['Auto'] = true,
             ['Mode'] = 'ClosestPart', 
         },
-        ['Start'] = 0.008, 
+        ['Start'] = 0.004, 
         ['End'] = 0.009, 
         ['Mode'] = "hold",  
     },
