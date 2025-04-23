@@ -18,7 +18,7 @@ shared.paradox = {
         ['FOV'] = 280,
 
         ['Configurations'] = {
-            ['Value'] = 0.0068,
+            ['Value'] = 0.006,
             ['ThirdPerson'] = false,
             ['FirstPerson'] = true, 
         },
@@ -55,8 +55,8 @@ shared.paradox = {
     ['Hitbox'] = {
         ['Enabled'] = true,
         ['Guns'] = {
-            ['[Double-Barrel SG]'] = { H = 0.5, W = 0.5 },
-            ['[Revolver]'] = { H = 0.2, W = 0.3 },
+            ['[Double-Barrel SG]'] = { H = 0.8, W = 0.8 },
+            ['[Revolver]'] = { H = 0.3, W = 0.6 },
             ['[Tactical SG]'] = { H = 1, W = 1 },
             ['[Rifle]'] = { H = 1.2, W = 1.2 }
         }
