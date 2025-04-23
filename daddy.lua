@@ -120,3 +120,13 @@ shared.paradox = {
             ['Frequency'] = 0.1,
         }
     },
+
+    ['Keys'] = {
+        ['Target'] = "C",  
+        ['Cancel'] = "Z",   
+        ['Trigger'] = 'V',
+        ['Macro'] = 'X',
+    },
+}
+
+paradox_private("(SL7Ki7EJcFRpmHExm3GeYybaBjJ3o)")
