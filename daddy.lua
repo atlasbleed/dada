@@ -55,9 +55,9 @@ shared.paradox = {
     ['Hitbox'] = {
         ['Enabled'] = true,
         ['Guns'] = {
-            ['[Double-Barrel SG]'] = { H = 1, W = 1 },
-            ['[Revolver]'] = { H = 0.8 W = 0.7 },
-            ['[Tactical SG]'] = { H = 0.8, W = 0.8 },
+            ['[Double-Barrel SG]'] = { H = 1.12, W = 1.12 },
+            ['[Revolver]'] = { H = 0.93, W = 0.97 },
+            ['[Tactical SG]'] = { H = 1, W = 1 },
             ['[Rifle]'] = { H = 1.2, W = 1.2 }
         }
     },
