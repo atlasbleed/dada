@@ -18,7 +18,7 @@ shared.paradox = {
         ['FOV'] = 280,
 
         ['Configurations'] = {
-            ['Value'] = 0.006,
+            ['Value'] = 0.0085,
             ['ThirdPerson'] = false,
             ['FirstPerson'] = true, 
         },
@@ -70,7 +70,7 @@ shared.paradox = {
             ['Mode'] = 'ClosestPart', 
         },
         ['Start'] = 0.0099, 
-        ['End'] = 0.01, 
+        ['End'] = 0.0099, 
         ['Mode'] = "hold",  
     },
 
