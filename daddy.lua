@@ -18,7 +18,7 @@ shared.paradox = {
         ['FOV'] = 280,
 
         ['Configurations'] = {
-            ['Value'] = 0.0085,
+            ['Value'] = 0.006,
             ['ThirdPerson'] = false,
             ['FirstPerson'] = true, 
         },
@@ -56,7 +56,7 @@ shared.paradox = {
         ['Enabled'] = true,
         ['Guns'] = {
             ['[Double-Barrel SG]'] = { H = 1.12, W = 1.12 },
-            ['[Revolver]'] = { H = 0.93, W = 0.8 },
+            ['[Revolver]'] = { H = 0.93, W = 0.7 },
             ['[Tactical SG]'] = { H = 1, W = 1 },
             ['[Rifle]'] = { H = 1.2, W = 1.2 }
         }
@@ -69,8 +69,8 @@ shared.paradox = {
             ['Auto'] = true,
             ['Mode'] = 'ClosestPart', 
         },
-        ['Start'] = 0.008, 
-        ['End'] = 0.009, 
+        ['Start'] = 0.0099, 
+        ['End'] = 0.01, 
         ['Mode'] = "hold",  
     },
 
